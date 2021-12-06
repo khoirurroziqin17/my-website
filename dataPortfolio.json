@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Tokopedia Clone",
+    "image": "/tokopedia-clone.png",
+    "altText": "Thumbnail Tokopedia Clone",
+    "techs": ["nextjs", "tailwindcss"],
+    "sourceCode": "/tokopedia-clone",
+    "demo": "https://tokopedia-clone-weld.vercel.app/"
+  }
+]
